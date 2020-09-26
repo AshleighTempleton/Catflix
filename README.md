@@ -1,4 +1,4 @@
-# Welcome to Getflix
+# Welcome to Catflix
 
 **The live site:** http://catflix.42web.io
 
